@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'HSBPageView_Example' do
+  pod 'HSBPageView', :path => '../'
+
+  target 'HSBPageView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
