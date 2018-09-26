@@ -1,0 +1,16 @@
+PODS:
+  - HSBPageView (0.1.0)
+
+DEPENDENCIES:
+  - HSBPageView (from `../`)
+
+EXTERNAL SOURCES:
+  HSBPageView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  HSBPageView: 6f2efa988704c6c9862792913cefea55ad764cfa
+
+PODFILE CHECKSUM: af75d780132dcd62a64399ca0035c9694481f175
+
+COCOAPODS: 1.5.3

@@ -1,0 +1,6 @@
+framework module HSBPageView {
+  umbrella header "HSBPageView-umbrella.h"
+
+  export *
+  module * { export * }
+}
